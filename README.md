@@ -4,7 +4,8 @@ Dự án mô phỏng quá trình sáp nhập hạ tầng mạng của hai công 
 
 **Sơ đồ mạng lưới (Topology)**
 
-*(Xóa dòng chữ này và kéo thả file ảnh sơ đồ mạng từ máy tính của bạn vào đây)*
+<img width="828" height="366" alt="image" src="https://github.com/user-attachments/assets/88103a20-90d2-4db3-9b5b-52ef84f23b55" />
+
 
 **Kỹ thuật triển khai cốt lõi**
 
